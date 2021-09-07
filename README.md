@@ -1,5 +1,5 @@
 # Отчет о лабораторных работах
-# Студент группы ИДБ-18-07 [Лузанчук Д.Д.](https://github.com/VRCHarbor)
+# Студент группы [ИДБ-18-07](https://github.com/stankin/design-part-1/wiki/list-idb-18-07) [Лузанчук Д.Д.](https://github.com/VRCHarbor)
 
 ## Лабораторная 1
 
