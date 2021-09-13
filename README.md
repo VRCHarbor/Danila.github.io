@@ -15,7 +15,8 @@
 
 ### Диаграмма прецедентов
 
-![image](https://user-images.githubusercontent.com/62661818/133085899-d19f9d5d-d2df-40d1-81c9-c7ac8a20d723.png)
+![image](https://user-images.githubusercontent.com/62661818/133087021-70009137-e8a2-4e7b-9cdf-4d4e8ed92746.png)
+
 
 ## Лабораторная 2
 
