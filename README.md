@@ -11,8 +11,7 @@
 
 ### Диаграмма модели
 
-![x](https://user-images.githubusercontent.com/62661818/133081669-4dd46b29-7cb1-4385-986f-53ab4efabf20.png)
-![Uploading 01_A0.png…]()
+![image](https://user-images.githubusercontent.com/62661818/133085310-0649fa37-a076-4062-bc40-0b9cebae6a0b.png)
 
 
 ## Лабораторная 2
