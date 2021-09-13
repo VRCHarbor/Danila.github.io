@@ -3,7 +3,9 @@
 
 ## Лабораторная 1
 
-### UML-модель разработки веб-сервиса
+### UML-модель "разработки веб-сервиса"
+
+[Файл конфигурации](https://github.com/VRCHarbor/Danila.github.io/blob/main/labWork1.rsf)
 
 ![01_A0](https://user-images.githubusercontent.com/62661818/133082482-2aa55e2b-a8f7-481c-8cdb-b2608a9621c1.png)
 
